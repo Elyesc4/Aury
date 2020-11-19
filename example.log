@@ -1,0 +1,5 @@
+DEBUG:__main__:   Loging DEBUG lewel
+INFO:__main__:    Loging INFO lewel
+WARNING:__main__: Loging WARN lewel
+ERROR:__main__:   Loging ERROR lewel
+CRITICAL:__main__:Loging CRITICAL lewel
